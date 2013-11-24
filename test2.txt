@@ -1,3 +1,5 @@
 Test GIT 2
 
-J'essaie de comprendre comment fonctionne ce struc.
+J'essaie de comprendre comment fonctionne ce truc.
+En fait ça marche bien...
+
